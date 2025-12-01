@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "世界一可愛い私",
+  "base_artist": "初星学園、HoneyWorks、Kotone Fujita",
+  "createdAt": "2025-12-01T14:52:09.337460Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "世界一可愛い私",
+      "artist": "初星学園、藤田ことね",
+      "has_synced": true,
+      "path": "select/01_世界一可愛い私_初星学園、藤田ことね.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "世界一可愛い私",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/02_世界一可愛い私_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "世界一可愛い私 (instrumental)",
+      "artist": "初星学園",
+      "has_synced": true,
+      "path": "select/03_世界一可愛い私_(instrumental)_初星学園.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "世界一可愛い私",
+      "artist": "藤田ことね(CV.飯田ヒカル)",
+      "has_synced": true,
+      "path": "select/04_世界一可愛い私_藤田ことね(CV.飯田ヒカル).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "世界一可愛い私 - Sekaiichi kawaii watashi",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_世界一可愛い私_-_Sekaiichi_kawaii_watashi_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "世界一可愛い私",
+      "artist": "藤田ことね",
+      "has_synced": true,
+      "path": "select/06_世界一可愛い私_藤田ことね.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "初星学園 「世界一可愛い私」Official Music Video (HATSUBOSHI GAKUEN - Sekaiichi kawaii watashi)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_初星学園_「世界一可愛い私」Official_Music_Video_(HATSUBOSHI_GAKUEN_-_Sekaiichi_kawaii_watashi_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "世界一可愛い私 [Instrumental]",
+      "artist": "藤田ことね(CV.飯田ヒカル)",
+      "has_synced": true,
+      "path": "select/08_世界一可愛い私_[Instrumental]_藤田ことね(CV.飯田ヒカル).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "世界一可愛い私",
+      "artist": "初星学園,HoneyWorks,藤田ことね",
+      "has_synced": false,
+      "path": "select/pl_01_世界一可愛い私_初星学園,HoneyWorks,藤田ことね.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "世界一可愛い私",
+      "artist": "初星学園,HoneyWorks,藤田ことね",
+      "has_synced": false,
+      "path": "select/pl_02_世界一可愛い私_初星学園,HoneyWorks,藤田ことね.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "世界一可愛い私",
+      "artist": "初星学園,HoneyWorks,藤田ことね",
+      "has_synced": false,
+      "path": "select/pl_03_世界一可愛い私_初星学園,HoneyWorks,藤田ことね.txt"
+    }
+  ]
+}
